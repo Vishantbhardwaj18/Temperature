@@ -1,0 +1,1 @@
+The Temperature Converter program allows users to convert temperatures between three units: Celsius, Fahrenheit, and Kelvin. It provides a menu-based interface where users can select their desired conversion type, input a temperature, and get the converted result. Here’s a detailed breakdown of the code and how it works:
